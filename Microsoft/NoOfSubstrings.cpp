@@ -4,7 +4,7 @@ public:
     int numberOfSubstrings(string s)
     {
         int A, B, C = 0;
-        vector<string> v;
+        // vector<string> v;
         int i, j = 0;
         int n = s.length();
         int count = 0;
