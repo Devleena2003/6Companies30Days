@@ -3,8 +3,7 @@ class Solution
 public:
     int magicalString(int n)
     {
-
-        // we only need to use 1 or 2 so 1 or 2 can come either together or single
+      // we only need to use 1 or 2 so 1 or 2 can come either together or single
         // 1 , 11, 22,
         // if we need 2 at second string then we need to add 2 came char but not same with last index
         // and if we need 1 at second string then we will add 1 diff char then previous one in
