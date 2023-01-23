@@ -1,6 +1,7 @@
 class Solution
 {
 public:
+//Quick Sort
     int partition(vector<int> &nums, int i, int j)
     {
         int pivotIndex = i;
